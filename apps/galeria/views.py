@@ -1,5 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
-from galeria.models import FotoGrafia
+from apps.galeria.models import FotoGrafia
 from django.contrib import messages
 
 
